@@ -23,7 +23,6 @@ export default function CreatePlacePage() {
       router.push("/");
     }
   }
-  console.log("Place added");
 
   return (
     <>
